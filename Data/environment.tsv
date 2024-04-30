@@ -1,0 +1,1401 @@
+Year	State	Total Disasters	Forest cover rate	Number of lakes
+1994	Alaska	0	30.4%	over 2000
+1994	Alabama	2	70.6%	0-250
+1994	Arkansas	2	55.1%	1501-2500
+1994	Arizona	1	4.8%	0-250
+1994	California	1	17.8%	2501-5000
+1994	Colorado	2	17.5%	501-1500
+1994	Connecticut	2	54.7%	2501-5000
+1994	Delaware	2	30%	0-250
+1994	Florida	1	42.4%	over 2000
+1994	Georgia	2	64.2%	0-250
+1994	Hawaii	0	17%	0-250
+1994	Iowa	1	5.4%	0-250
+1994	Idaho	0	31.8%	1501-2500
+1994	Illinois	2	11.5%	0-250
+1994	Indiana	2	18.9%	0-250
+1994	Kansas	1	2.8%	0-250
+1994	Kentucky	2	48.6%	0-250
+1994	Louisiana	1	49.2%	0-250
+1994	Massachusetts	2	52.5%	2501-5000
+1994	Maryland	2	37.9%	0-250
+1994	Maine	1	89%	2501-5000
+1994	Michigan	0	51.2%	over 2000
+1994	Minnesota	1	28.9%	over 2000
+1994	Missouri	1	30.3%	0-250
+1994	Mississippi	1	61.9%	0-250
+1994	Montana	0	20.6%	2501-5000
+1994	North Carolina	2	59.9%	0-250
+1994	North Dakota	0	1%	251-500
+1994	Nebraska	1	1.8%	0-250
+1994	New Hampshire	1	77.5%	501-1500
+1994	New Jersey	2	39.5%	1501-2500
+1994	New Mexico	1	5.6%	501-1500
+1994	Nevada	1	0.5%	0-250
+1994	New York	2	50.9%	5001-10000
+1994	Ohio	1	28.9%	0-250
+1994	Oklahoma	1	14.2%	0-250
+1994	Oregon	1	38.8%	501-1500
+1994	Pennsylvania	2	55.3%	251-500
+1994	Rhode Island	2	50.8%	0-250
+1994	South Carolina	2	63.8%	0-250
+1994	South Dakota	1	3.1%	251-500
+1994	Tennessee	2	52.9%	0-250
+1994	Texas	4	7%	5001-10000
+1994	Utah	1	8.9%	501-1500
+1994	Virginia	2	60.7%	0-250
+1994	Vermont	1	75.5%	501-1500
+1994	Washington	1	40.7%	5001-10000
+1994	Wisconsin	0	45.2%	10001-20000
+1994	West Virginia	2	77.2%	0-250
+1994	Wyoming	0	9.2%	0-250
+1995	Alaska	0	30.4%	over 2000
+1995	Alabama	3	70.6%	0-250
+1995	Arkansas	1	55.1%	1501-2500
+1995	Arizona	0	4.8%	0-250
+1995	California	1	17.8%	2501-5000
+1995	Colorado	0	17.5%	501-1500
+1995	Connecticut	0	54.7%	2501-5000
+1995	Delaware	1	30%	0-250
+1995	Florida	2	42.4%	over 2000
+1995	Georgia	2	64.2%	0-250
+1995	Hawaii	0	17%	0-250
+1995	Iowa	0	5.4%	0-250
+1995	Idaho	0	31.8%	1501-2500
+1995	Illinois	2	11.5%	0-250
+1995	Indiana	1	18.9%	0-250
+1995	Kansas	0	2.8%	0-250
+1995	Kentucky	0	48.6%	0-250
+1995	Louisiana	2	49.2%	0-250
+1995	Massachusetts	0	52.5%	2501-5000
+1995	Maryland	1	37.9%	0-250
+1995	Maine	0	89%	2501-5000
+1995	Michigan	0	51.2%	over 2000
+1995	Minnesota	0	28.9%	over 2000
+1995	Missouri	1	30.3%	0-250
+1995	Mississippi	3	61.9%	0-250
+1995	Montana	0	20.6%	2501-5000
+1995	North Carolina	1	59.9%	0-250
+1995	North Dakota	0	1%	251-500
+1995	Nebraska	0	1.8%	0-250
+1995	New Hampshire	0	77.5%	501-1500
+1995	New Jersey	1	39.5%	1501-2500
+1995	New Mexico	1	5.6%	501-1500
+1995	Nevada	0	0.5%	0-250
+1995	New York	0	50.9%	5001-10000
+1995	Ohio	1	28.9%	0-250
+1995	Oklahoma	1	14.2%	0-250
+1995	Oregon	0	38.8%	501-1500
+1995	Pennsylvania	1	55.3%	251-500
+1995	Rhode Island	0	50.8%	0-250
+1995	South Carolina	1	63.8%	0-250
+1995	South Dakota	0	3.1%	251-500
+1995	Tennessee	1	52.9%	0-250
+1995	Texas	3	7%	5001-10000
+1995	Utah	0	8.9%	501-1500
+1995	Virginia	1	60.7%	0-250
+1995	Vermont	0	75.5%	501-1500
+1995	Washington	0	40.7%	5001-10000
+1995	Wisconsin	1	45.2%	10001-20000
+1995	West Virginia	0	77.2%	0-250
+1995	Wyoming	0	9.2%	0-250
+1996	Alaska	0	30.4%	over 2000
+1996	Alabama	0	70.6%	0-250
+1996	Arkansas	1	55.1%	1501-2500
+1996	Arizona	0	4.8%	0-250
+1996	California	0	17.8%	2501-5000
+1996	Colorado	1	17.5%	501-1500
+1996	Connecticut	2	54.7%	2501-5000
+1996	Delaware	1	30%	0-250
+1996	Florida	0	42.4%	over 2000
+1996	Georgia	0	64.2%	0-250
+1996	Hawaii	0	17%	0-250
+1996	Iowa	0	5.4%	0-250
+1996	Idaho	1	31.8%	1501-2500
+1996	Illinois	0	11.5%	0-250
+1996	Indiana	0	18.9%	0-250
+1996	Kansas	1	2.8%	0-250
+1996	Kentucky	1	48.6%	0-250
+1996	Louisiana	0	49.2%	0-250
+1996	Massachusetts	2	52.5%	2501-5000
+1996	Maryland	2	37.9%	0-250
+1996	Maine	1	89%	2501-5000
+1996	Michigan	0	51.2%	over 2000
+1996	Minnesota	0	28.9%	over 2000
+1996	Missouri	1	30.3%	0-250
+1996	Mississippi	0	61.9%	0-250
+1996	Montana	1	20.6%	2501-5000
+1996	North Carolina	2	59.9%	0-250
+1996	North Dakota	0	1%	251-500
+1996	Nebraska	0	1.8%	0-250
+1996	New Hampshire	0	77.5%	501-1500
+1996	New Jersey	1	39.5%	1501-2500
+1996	New Mexico	1	5.6%	501-1500
+1996	Nevada	0	0.5%	0-250
+1996	New York	1	50.9%	5001-10000
+1996	Ohio	2	28.9%	0-250
+1996	Oklahoma	1	14.2%	0-250
+1996	Oregon	1	38.8%	501-1500
+1996	Pennsylvania	2	55.3%	251-500
+1996	Rhode Island	1	50.8%	0-250
+1996	South Carolina	2	63.8%	0-250
+1996	South Dakota	0	3.1%	251-500
+1996	Tennessee	1	52.9%	0-250
+1996	Texas	2	7%	5001-10000
+1996	Utah	0	8.9%	501-1500
+1996	Virginia	2	60.7%	0-250
+1996	Vermont	0	75.5%	501-1500
+1996	Washington	1	40.7%	5001-10000
+1996	Wisconsin	0	45.2%	10001-20000
+1996	West Virginia	2	77.2%	0-250
+1996	Wyoming	0	9.2%	0-250
+1997	Alaska	0	30.4%	over 2000
+1997	Alabama	0	70.6%	0-250
+1997	Arkansas	1	55.1%	1501-2500
+1997	Arizona	0	4.8%	0-250
+1997	California	1	17.8%	2501-5000
+1997	Colorado	0	17.5%	501-1500
+1997	Connecticut	1	54.7%	2501-5000
+1997	Delaware	0	30%	0-250
+1997	Florida	0	42.4%	over 2000
+1997	Georgia	1	64.2%	0-250
+1997	Hawaii	0	17%	0-250
+1997	Iowa	0	5.4%	0-250
+1997	Idaho	1	31.8%	1501-2500
+1997	Illinois	0	11.5%	0-250
+1997	Indiana	0	18.9%	0-250
+1997	Kansas	0	2.8%	0-250
+1997	Kentucky	1	48.6%	0-250
+1997	Louisiana	0	49.2%	0-250
+1997	Massachusetts	1	52.5%	2501-5000
+1997	Maryland	0	37.9%	0-250
+1997	Maine	1	89%	2501-5000
+1997	Michigan	0	51.2%	over 2000
+1997	Minnesota	1	28.9%	over 2000
+1997	Missouri	0	30.3%	0-250
+1997	Mississippi	1	61.9%	0-250
+1997	Montana	1	20.6%	2501-5000
+1997	North Carolina	1	59.9%	0-250
+1997	North Dakota	1	1%	251-500
+1997	Nebraska	0	1.8%	0-250
+1997	New Hampshire	1	77.5%	501-1500
+1997	New Jersey	1	39.5%	1501-2500
+1997	New Mexico	0	5.6%	501-1500
+1997	Nevada	1	0.5%	0-250
+1997	New York	1	50.9%	5001-10000
+1997	Ohio	1	28.9%	0-250
+1997	Oklahoma	0	14.2%	0-250
+1997	Oregon	1	38.8%	501-1500
+1997	Pennsylvania	1	55.3%	251-500
+1997	Rhode Island	1	50.8%	0-250
+1997	South Carolina	0	63.8%	0-250
+1997	South Dakota	1	3.1%	251-500
+1997	Tennessee	1	52.9%	0-250
+1997	Texas	1	7%	5001-10000
+1997	Utah	0	8.9%	501-1500
+1997	Virginia	0	60.7%	0-250
+1997	Vermont	1	75.5%	501-1500
+1997	Washington	1	40.7%	5001-10000
+1997	Wisconsin	0	45.2%	10001-20000
+1997	West Virginia	1	77.2%	0-250
+1997	Wyoming	0	9.2%	0-250
+1998	Alaska	0	30.4%	over 2000
+1998	Alabama	3	70.6%	0-250
+1998	Arkansas	1	55.1%	1501-2500
+1998	Arizona	0	4.8%	0-250
+1998	California	2	17.8%	2501-5000
+1998	Colorado	0	17.5%	501-1500
+1998	Connecticut	1	54.7%	2501-5000
+1998	Delaware	0	30%	0-250
+1998	Florida	3	42.4%	over 2000
+1998	Georgia	2	64.2%	0-250
+1998	Hawaii	0	17%	0-250
+1998	Iowa	2	5.4%	0-250
+1998	Idaho	0	31.8%	1501-2500
+1998	Illinois	1	11.5%	0-250
+1998	Indiana	1	18.9%	0-250
+1998	Kansas	1	2.8%	0-250
+1998	Kentucky	1	48.6%	0-250
+1998	Louisiana	4	49.2%	0-250
+1998	Massachusetts	2	52.5%	2501-5000
+1998	Maryland	1	37.9%	0-250
+1998	Maine	1	89%	2501-5000
+1998	Michigan	2	51.2%	over 2000
+1998	Minnesota	3	28.9%	over 2000
+1998	Missouri	1	30.3%	0-250
+1998	Mississippi	3	61.9%	0-250
+1998	Montana	0	20.6%	2501-5000
+1998	North Carolina	4	59.9%	0-250
+1998	North Dakota	0	1%	251-500
+1998	Nebraska	0	1.8%	0-250
+1998	New Hampshire	2	77.5%	501-1500
+1998	New Jersey	2	39.5%	1501-2500
+1998	New Mexico	0	5.6%	501-1500
+1998	Nevada	0	0.5%	0-250
+1998	New York	3	50.9%	5001-10000
+1998	Ohio	2	28.9%	0-250
+1998	Oklahoma	1	14.2%	0-250
+1998	Oregon	0	38.8%	501-1500
+1998	Pennsylvania	2	55.3%	251-500
+1998	Rhode Island	1	50.8%	0-250
+1998	South Carolina	3	63.8%	0-250
+1998	South Dakota	1	3.1%	251-500
+1998	Tennessee	2	52.9%	0-250
+1998	Texas	4	7%	5001-10000
+1998	Utah	0	8.9%	501-1500
+1998	Virginia	3	60.7%	0-250
+1998	Vermont	2	75.5%	501-1500
+1998	Washington	0	40.7%	5001-10000
+1998	Wisconsin	2	45.2%	10001-20000
+1998	West Virginia	2	77.2%	0-250
+1998	Wyoming	0	9.2%	0-250
+1999	Alaska	0	30.4%	over 2000
+1999	Alabama	3	70.6%	0-250
+1999	Arkansas	3	55.1%	1501-2500
+1999	Arizona	0	4.8%	0-250
+1999	California	0	17.8%	2501-5000
+1999	Colorado	0	17.5%	501-1500
+1999	Connecticut	3	54.7%	2501-5000
+1999	Delaware	2	30%	0-250
+1999	Florida	3	42.4%	over 2000
+1999	Georgia	3	64.2%	0-250
+1999	Hawaii	0	17%	0-250
+1999	Iowa	0	5.4%	0-250
+1999	Idaho	0	31.8%	1501-2500
+1999	Illinois	3	11.5%	0-250
+1999	Indiana	3	18.9%	0-250
+1999	Kansas	1	2.8%	0-250
+1999	Kentucky	3	48.6%	0-250
+1999	Louisiana	3	49.2%	0-250
+1999	Massachusetts	3	52.5%	2501-5000
+1999	Maryland	4	37.9%	0-250
+1999	Maine	2	89%	2501-5000
+1999	Michigan	1	51.2%	over 2000
+1999	Minnesota	0	28.9%	over 2000
+1999	Missouri	2	30.3%	0-250
+1999	Mississippi	3	61.9%	0-250
+1999	Montana	0	20.6%	2501-5000
+1999	North Carolina	4	59.9%	0-250
+1999	North Dakota	0	1%	251-500
+1999	Nebraska	1	1.8%	0-250
+1999	New Hampshire	2	77.5%	501-1500
+1999	New Jersey	4	39.5%	1501-2500
+1999	New Mexico	0	5.6%	501-1500
+1999	Nevada	0	0.5%	0-250
+1999	New York	3	50.9%	5001-10000
+1999	Ohio	4	28.9%	0-250
+1999	Oklahoma	2	14.2%	0-250
+1999	Oregon	0	38.8%	501-1500
+1999	Pennsylvania	4	55.3%	251-500
+1999	Rhode Island	2	50.8%	0-250
+1999	South Carolina	4	63.8%	0-250
+1999	South Dakota	0	3.1%	251-500
+1999	Tennessee	3	52.9%	0-250
+1999	Texas	2	7%	5001-10000
+1999	Utah	0	8.9%	501-1500
+1999	Virginia	4	60.7%	0-250
+1999	Vermont	3	75.5%	501-1500
+1999	Washington	0	40.7%	5001-10000
+1999	Wisconsin	0	45.2%	10001-20000
+1999	West Virginia	3	77.2%	0-250
+1999	Wyoming	0	9.2%	0-250
+2000	Alaska	0	30.4%	over 2000
+2000	Alabama	2	70.6%	0-250
+2000	Arkansas	1	55.1%	1501-2500
+2000	Arizona	1	4.8%	0-250
+2000	California	1	17.8%	2501-5000
+2000	Colorado	2	17.5%	501-1500
+2000	Connecticut	0	54.7%	2501-5000
+2000	Delaware	0	30%	0-250
+2000	Florida	2	42.4%	over 2000
+2000	Georgia	2	64.2%	0-250
+2000	Hawaii	0	17%	0-250
+2000	Iowa	1	5.4%	0-250
+2000	Idaho	1	31.8%	1501-2500
+2000	Illinois	0	11.5%	0-250
+2000	Indiana	0	18.9%	0-250
+2000	Kansas	1	2.8%	0-250
+2000	Kentucky	0	48.6%	0-250
+2000	Louisiana	3	49.2%	0-250
+2000	Massachusetts	0	52.5%	2501-5000
+2000	Maryland	0	37.9%	0-250
+2000	Maine	0	89%	2501-5000
+2000	Michigan	0	51.2%	over 2000
+2000	Minnesota	0	28.9%	over 2000
+2000	Missouri	0	30.3%	0-250
+2000	Mississippi	1	61.9%	0-250
+2000	Montana	2	20.6%	2501-5000
+2000	North Carolina	1	59.9%	0-250
+2000	North Dakota	0	1%	251-500
+2000	Nebraska	1	1.8%	0-250
+2000	New Hampshire	0	77.5%	501-1500
+2000	New Jersey	0	39.5%	1501-2500
+2000	New Mexico	2	5.6%	501-1500
+2000	Nevada	0	0.5%	0-250
+2000	New York	0	50.9%	5001-10000
+2000	Ohio	0	28.9%	0-250
+2000	Oklahoma	1	14.2%	0-250
+2000	Oregon	1	38.8%	501-1500
+2000	Pennsylvania	0	55.3%	251-500
+2000	Rhode Island	0	50.8%	0-250
+2000	South Carolina	2	63.8%	0-250
+2000	South Dakota	0	3.1%	251-500
+2000	Tennessee	2	52.9%	0-250
+2000	Texas	2	7%	5001-10000
+2000	Utah	0	8.9%	501-1500
+2000	Virginia	1	60.7%	0-250
+2000	Vermont	0	75.5%	501-1500
+2000	Washington	1	40.7%	5001-10000
+2000	Wisconsin	0	45.2%	10001-20000
+2000	West Virginia	0	77.2%	0-250
+2000	Wyoming	1	9.2%	0-250
+2001	Alaska	0	30.4%	over 2000
+2001	Alabama	0	70.6%	0-250
+2001	Arkansas	1	55.1%	1501-2500
+2001	Arizona	0	4.8%	0-250
+2001	California	0	17.8%	2501-5000
+2001	Colorado	1	17.5%	501-1500
+2001	Connecticut	0	54.7%	2501-5000
+2001	Delaware	0	30%	0-250
+2001	Florida	1	42.4%	over 2000
+2001	Georgia	0	64.2%	0-250
+2001	Hawaii	0	17%	0-250
+2001	Iowa	2	5.4%	0-250
+2001	Idaho	0	31.8%	1501-2500
+2001	Illinois	1	11.5%	0-250
+2001	Indiana	1	18.9%	0-250
+2001	Kansas	1	2.8%	0-250
+2001	Kentucky	1	48.6%	0-250
+2001	Louisiana	1	49.2%	0-250
+2001	Massachusetts	0	52.5%	2501-5000
+2001	Maryland	0	37.9%	0-250
+2001	Maine	0	89%	2501-5000
+2001	Michigan	1	51.2%	over 2000
+2001	Minnesota	2	28.9%	over 2000
+2001	Missouri	1	30.3%	0-250
+2001	Mississippi	1	61.9%	0-250
+2001	Montana	0	20.6%	2501-5000
+2001	North Carolina	0	59.9%	0-250
+2001	North Dakota	0	1%	251-500
+2001	Nebraska	2	1.8%	0-250
+2001	New Hampshire	0	77.5%	501-1500
+2001	New Jersey	1	39.5%	1501-2500
+2001	New Mexico	0	5.6%	501-1500
+2001	Nevada	0	0.5%	0-250
+2001	New York	0	50.9%	5001-10000
+2001	Ohio	1	28.9%	0-250
+2001	Oklahoma	1	14.2%	0-250
+2001	Oregon	0	38.8%	501-1500
+2001	Pennsylvania	2	55.3%	251-500
+2001	Rhode Island	0	50.8%	0-250
+2001	South Carolina	0	63.8%	0-250
+2001	South Dakota	0	3.1%	251-500
+2001	Tennessee	0	52.9%	0-250
+2001	Texas	2	7%	5001-10000
+2001	Utah	0	8.9%	501-1500
+2001	Virginia	0	60.7%	0-250
+2001	Vermont	0	75.5%	501-1500
+2001	Washington	0	40.7%	5001-10000
+2001	Wisconsin	2	45.2%	10001-20000
+2001	West Virginia	0	77.2%	0-250
+2001	Wyoming	0	9.2%	0-250
+2002	Alaska	1	30.4%	over 2000
+2002	Alabama	3	70.6%	0-250
+2002	Arkansas	1	55.1%	1501-2500
+2002	Arizona	2	4.8%	0-250
+2002	California	2	17.8%	2501-5000
+2002	Colorado	2	17.5%	501-1500
+2002	Connecticut	0	54.7%	2501-5000
+2002	Delaware	1	30%	0-250
+2002	Florida	1	42.4%	over 2000
+2002	Georgia	4	64.2%	0-250
+2002	Hawaii	0	17%	0-250
+2002	Iowa	0	5.4%	0-250
+2002	Idaho	1	31.8%	1501-2500
+2002	Illinois	2	11.5%	0-250
+2002	Indiana	2	18.9%	0-250
+2002	Kansas	2	2.8%	0-250
+2002	Kentucky	3	48.6%	0-250
+2002	Louisiana	3	49.2%	0-250
+2002	Massachusetts	0	52.5%	2501-5000
+2002	Maryland	2	37.9%	0-250
+2002	Maine	0	89%	2501-5000
+2002	Michigan	0	51.2%	over 2000
+2002	Minnesota	0	28.9%	over 2000
+2002	Missouri	2	30.3%	0-250
+2002	Mississippi	4	61.9%	0-250
+2002	Montana	1	20.6%	2501-5000
+2002	North Carolina	2	59.9%	0-250
+2002	North Dakota	1	1%	251-500
+2002	Nebraska	1	1.8%	0-250
+2002	New Hampshire	0	77.5%	501-1500
+2002	New Jersey	1	39.5%	1501-2500
+2002	New Mexico	2	5.6%	501-1500
+2002	Nevada	2	0.5%	0-250
+2002	New York	2	50.9%	5001-10000
+2002	Ohio	3	28.9%	0-250
+2002	Oklahoma	1	14.2%	0-250
+2002	Oregon	2	38.8%	501-1500
+2002	Pennsylvania	3	55.3%	251-500
+2002	Rhode Island	0	50.8%	0-250
+2002	South Carolina	1	63.8%	0-250
+2002	South Dakota	1	3.1%	251-500
+2002	Tennessee	3	52.9%	0-250
+2002	Texas	2	7%	5001-10000
+2002	Utah	2	8.9%	501-1500
+2002	Virginia	2	60.7%	0-250
+2002	Vermont	0	75.5%	501-1500
+2002	Washington	0	40.7%	5001-10000
+2002	Wisconsin	0	45.2%	10001-20000
+2002	West Virginia	2	77.2%	0-250
+2002	Wyoming	1	9.2%	0-250
+2003	Alaska	1	30.4%	over 2000
+2003	Alabama	3	70.6%	0-250
+2003	Arkansas	2	55.1%	1501-2500
+2003	Arizona	2	4.8%	0-250
+2003	California	1	17.8%	2501-5000
+2003	Colorado	2	17.5%	501-1500
+2003	Connecticut	0	54.7%	2501-5000
+2003	Delaware	1	30%	0-250
+2003	Florida	1	42.4%	over 2000
+2003	Georgia	2	64.2%	0-250
+2003	Hawaii	0	17%	0-250
+2003	Iowa	3	5.4%	0-250
+2003	Idaho	2	31.8%	1501-2500
+2003	Illinois	5	11.5%	0-250
+2003	Indiana	4	18.9%	0-250
+2003	Kansas	2	2.8%	0-250
+2003	Kentucky	2	48.6%	0-250
+2003	Louisiana	1	49.2%	0-250
+2003	Massachusetts	0	52.5%	2501-5000
+2003	Maryland	1	37.9%	0-250
+2003	Maine	0	89%	2501-5000
+2003	Michigan	4	51.2%	over 2000
+2003	Minnesota	3	28.9%	over 2000
+2003	Missouri	3	30.3%	0-250
+2003	Mississippi	3	61.9%	0-250
+2003	Montana	2	20.6%	2501-5000
+2003	North Carolina	2	59.9%	0-250
+2003	North Dakota	1	1%	251-500
+2003	Nebraska	2	1.8%	0-250
+2003	New Hampshire	0	77.5%	501-1500
+2003	New Jersey	1	39.5%	1501-2500
+2003	New Mexico	1	5.6%	501-1500
+2003	Nevada	1	0.5%	0-250
+2003	New York	3	50.9%	5001-10000
+2003	Ohio	3	28.9%	0-250
+2003	Oklahoma	2	14.2%	0-250
+2003	Oregon	2	38.8%	501-1500
+2003	Pennsylvania	2	55.3%	251-500
+2003	Rhode Island	0	50.8%	0-250
+2003	South Carolina	2	63.8%	0-250
+2003	South Dakota	2	3.1%	251-500
+2003	Tennessee	3	52.9%	0-250
+2003	Texas	1	7%	5001-10000
+2003	Utah	2	8.9%	501-1500
+2003	Virginia	2	60.7%	0-250
+2003	Vermont	0	75.5%	501-1500
+2003	Washington	2	40.7%	5001-10000
+2003	Wisconsin	1	45.2%	10001-20000
+2003	West Virginia	2	77.2%	0-250
+2003	Wyoming	1	9.2%	0-250
+2004	Alaska	0	30.4%	over 2000
+2004	Alabama	1	70.6%	0-250
+2004	Arkansas	0	55.1%	1501-2500
+2004	Arizona	0	4.8%	0-250
+2004	California	0	17.8%	2501-5000
+2004	Colorado	1	17.5%	501-1500
+2004	Connecticut	0	54.7%	2501-5000
+2004	Delaware	2	30%	0-250
+2004	Florida	4	42.4%	over 2000
+2004	Georgia	3	64.2%	0-250
+2004	Hawaii	0	17%	0-250
+2004	Iowa	1	5.4%	0-250
+2004	Idaho	0	31.8%	1501-2500
+2004	Illinois	1	11.5%	0-250
+2004	Indiana	1	18.9%	0-250
+2004	Kansas	0	2.8%	0-250
+2004	Kentucky	2	48.6%	0-250
+2004	Louisiana	1	49.2%	0-250
+2004	Massachusetts	0	52.5%	2501-5000
+2004	Maryland	2	37.9%	0-250
+2004	Maine	0	89%	2501-5000
+2004	Michigan	1	51.2%	over 2000
+2004	Minnesota	0	28.9%	over 2000
+2004	Missouri	1	30.3%	0-250
+2004	Mississippi	1	61.9%	0-250
+2004	Montana	0	20.6%	2501-5000
+2004	North Carolina	5	59.9%	0-250
+2004	North Dakota	0	1%	251-500
+2004	Nebraska	1	1.8%	0-250
+2004	New Hampshire	0	77.5%	501-1500
+2004	New Jersey	2	39.5%	1501-2500
+2004	New Mexico	0	5.6%	501-1500
+2004	Nevada	0	0.5%	0-250
+2004	New York	4	50.9%	5001-10000
+2004	Ohio	2	28.9%	0-250
+2004	Oklahoma	1	14.2%	0-250
+2004	Oregon	0	38.8%	501-1500
+2004	Pennsylvania	2	55.3%	251-500
+2004	Rhode Island	0	50.8%	0-250
+2004	South Carolina	3	63.8%	0-250
+2004	South Dakota	0	3.1%	251-500
+2004	Tennessee	1	52.9%	0-250
+2004	Texas	0	7%	5001-10000
+2004	Utah	0	8.9%	501-1500
+2004	Virginia	2	60.7%	0-250
+2004	Vermont	0	75.5%	501-1500
+2004	Washington	0	40.7%	5001-10000
+2004	Wisconsin	1	45.2%	10001-20000
+2004	West Virginia	1	77.2%	0-250
+2004	Wyoming	0	9.2%	0-250
+2005	Alaska	0	30.4%	over 2000
+2005	Alabama	4	70.6%	0-250
+2005	Arkansas	2	55.1%	1501-2500
+2005	Arizona	0	4.8%	0-250
+2005	California	0	17.8%	2501-5000
+2005	Colorado	0	17.5%	501-1500
+2005	Connecticut	0	54.7%	2501-5000
+2005	Delaware	0	30%	0-250
+2005	Florida	5	42.4%	over 2000
+2005	Georgia	3	64.2%	0-250
+2005	Hawaii	0	17%	0-250
+2005	Iowa	1	5.4%	0-250
+2005	Idaho	0	31.8%	1501-2500
+2005	Illinois	1	11.5%	0-250
+2005	Indiana	0	18.9%	0-250
+2005	Kansas	0	2.8%	0-250
+2005	Kentucky	1	48.6%	0-250
+2005	Louisiana	2	49.2%	0-250
+2005	Massachusetts	0	52.5%	2501-5000
+2005	Maryland	0	37.9%	0-250
+2005	Maine	0	89%	2501-5000
+2005	Michigan	0	51.2%	over 2000
+2005	Minnesota	0	28.9%	over 2000
+2005	Missouri	1	30.3%	0-250
+2005	Mississippi	4	61.9%	0-250
+2005	Montana	0	20.6%	2501-5000
+2005	North Carolina	1	59.9%	0-250
+2005	North Dakota	0	1%	251-500
+2005	Nebraska	0	1.8%	0-250
+2005	New Hampshire	0	77.5%	501-1500
+2005	New Jersey	0	39.5%	1501-2500
+2005	New Mexico	0	5.6%	501-1500
+2005	Nevada	0	0.5%	0-250
+2005	New York	0	50.9%	5001-10000
+2005	Ohio	1	28.9%	0-250
+2005	Oklahoma	0	14.2%	0-250
+2005	Oregon	1	38.8%	501-1500
+2005	Pennsylvania	0	55.3%	251-500
+2005	Rhode Island	0	50.8%	0-250
+2005	South Carolina	0	63.8%	0-250
+2005	South Dakota	1	3.1%	251-500
+2005	Tennessee	1	52.9%	0-250
+2005	Texas	2	7%	5001-10000
+2005	Utah	0	8.9%	501-1500
+2005	Virginia	1	60.7%	0-250
+2005	Vermont	0	75.5%	501-1500
+2005	Washington	1	40.7%	5001-10000
+2005	Wisconsin	1	45.2%	10001-20000
+2005	West Virginia	0	77.2%	0-250
+2005	Wyoming	0	9.2%	0-250
+2006	Alaska	1	30.4%	over 2000
+2006	Alabama	3	70.6%	0-250
+2006	Arkansas	2	55.1%	1501-2500
+2006	Arizona	2	4.8%	0-250
+2006	California	1	17.8%	2501-5000
+2006	Colorado	1	17.5%	501-1500
+2006	Connecticut	0	54.7%	2501-5000
+2006	Delaware	1	30%	0-250
+2006	Florida	2	42.4%	over 2000
+2006	Georgia	2	64.2%	0-250
+2006	Hawaii	0	17%	0-250
+2006	Iowa	2	5.4%	0-250
+2006	Idaho	1	31.8%	1501-2500
+2006	Illinois	4	11.5%	0-250
+2006	Indiana	5	18.9%	0-250
+2006	Kansas	3	2.8%	0-250
+2006	Kentucky	2	48.6%	0-250
+2006	Louisiana	1	49.2%	0-250
+2006	Massachusetts	0	52.5%	2501-5000
+2006	Maryland	1	37.9%	0-250
+2006	Maine	0	89%	2501-5000
+2006	Michigan	1	51.2%	over 2000
+2006	Minnesota	3	28.9%	over 2000
+2006	Missouri	2	30.3%	0-250
+2006	Mississippi	3	61.9%	0-250
+2006	Montana	2	20.6%	2501-5000
+2006	North Carolina	0	59.9%	0-250
+2006	North Dakota	1	1%	251-500
+2006	Nebraska	2	1.8%	0-250
+2006	New Hampshire	0	77.5%	501-1500
+2006	New Jersey	1	39.5%	1501-2500
+2006	New Mexico	2	5.6%	501-1500
+2006	Nevada	1	0.5%	0-250
+2006	New York	1	50.9%	5001-10000
+2006	Ohio	2	28.9%	0-250
+2006	Oklahoma	3	14.2%	0-250
+2006	Oregon	1	38.8%	501-1500
+2006	Pennsylvania	1	55.3%	251-500
+2006	Rhode Island	0	50.8%	0-250
+2006	South Carolina	0	63.8%	0-250
+2006	South Dakota	2	3.1%	251-500
+2006	Tennessee	2	52.9%	0-250
+2006	Texas	3	7%	5001-10000
+2006	Utah	1	8.9%	501-1500
+2006	Virginia	1	60.7%	0-250
+2006	Vermont	0	75.5%	501-1500
+2006	Washington	1	40.7%	5001-10000
+2006	Wisconsin	3	45.2%	10001-20000
+2006	West Virginia	0	77.2%	0-250
+2006	Wyoming	2	9.2%	0-250
+2007	Alaska	1	30.4%	over 2000
+2007	Alabama	2	70.6%	0-250
+2007	Arkansas	2	55.1%	1501-2500
+2007	Arizona	2	4.8%	0-250
+2007	California	3	17.8%	2501-5000
+2007	Colorado	0	17.5%	501-1500
+2007	Connecticut	1	54.7%	2501-5000
+2007	Delaware	2	30%	0-250
+2007	Florida	2	42.4%	over 2000
+2007	Georgia	4	64.2%	0-250
+2007	Hawaii	0	17%	0-250
+2007	Iowa	1	5.4%	0-250
+2007	Idaho	2	31.8%	1501-2500
+2007	Illinois	1	11.5%	0-250
+2007	Indiana	2	18.9%	0-250
+2007	Kansas	1	2.8%	0-250
+2007	Kentucky	2	48.6%	0-250
+2007	Louisiana	1	49.2%	0-250
+2007	Massachusetts	1	52.5%	2501-5000
+2007	Maryland	2	37.9%	0-250
+2007	Maine	1	89%	2501-5000
+2007	Michigan	1	51.2%	over 2000
+2007	Minnesota	2	28.9%	over 2000
+2007	Missouri	1	30.3%	0-250
+2007	Mississippi	3	61.9%	0-250
+2007	Montana	1	20.6%	2501-5000
+2007	North Carolina	3	59.9%	0-250
+2007	North Dakota	0	1%	251-500
+2007	Nebraska	1	1.8%	0-250
+2007	New Hampshire	1	77.5%	501-1500
+2007	New Jersey	2	39.5%	1501-2500
+2007	New Mexico	0	5.6%	501-1500
+2007	Nevada	2	0.5%	0-250
+2007	New York	2	50.9%	5001-10000
+2007	Ohio	2	28.9%	0-250
+2007	Oklahoma	1	14.2%	0-250
+2007	Oregon	2	38.8%	501-1500
+2007	Pennsylvania	2	55.3%	251-500
+2007	Rhode Island	1	50.8%	0-250
+2007	South Carolina	3	63.8%	0-250
+2007	South Dakota	0	3.1%	251-500
+2007	Tennessee	2	52.9%	0-250
+2007	Texas	1	7%	5001-10000
+2007	Utah	2	8.9%	501-1500
+2007	Virginia	3	60.7%	0-250
+2007	Vermont	1	75.5%	501-1500
+2007	Washington	1	40.7%	5001-10000
+2007	Wisconsin	1	45.2%	10001-20000
+2007	West Virginia	2	77.2%	0-250
+2007	Wyoming	1	9.2%	0-250
+2008	Alaska	0	30.4%	over 2000
+2008	Alabama	4	70.6%	0-250
+2008	Arkansas	6	55.1%	1501-2500
+2008	Arizona	1	4.8%	0-250
+2008	California	3	17.8%	2501-5000
+2008	Colorado	3	17.5%	501-1500
+2008	Connecticut	1	54.7%	2501-5000
+2008	Delaware	0	30%	0-250
+2008	Florida	1	42.4%	over 2000
+2008	Georgia	2	64.2%	0-250
+2008	Hawaii	0	17%	0-250
+2008	Iowa	3	5.4%	0-250
+2008	Idaho	2	31.8%	1501-2500
+2008	Illinois	5	11.5%	0-250
+2008	Indiana	7	18.9%	0-250
+2008	Kansas	5	2.8%	0-250
+2008	Kentucky	3	48.6%	0-250
+2008	Louisiana	2	49.2%	0-250
+2008	Massachusetts	0	52.5%	2501-5000
+2008	Maryland	1	37.9%	0-250
+2008	Maine	0	89%	2501-5000
+2008	Michigan	3	51.2%	over 2000
+2008	Minnesota	4	28.9%	over 2000
+2008	Missouri	4	30.3%	0-250
+2008	Mississippi	3	61.9%	0-250
+2008	Montana	2	20.6%	2501-5000
+2008	North Carolina	2	59.9%	0-250
+2008	North Dakota	1	1%	251-500
+2008	Nebraska	3	1.8%	0-250
+2008	New Hampshire	0	77.5%	501-1500
+2008	New Jersey	2	39.5%	1501-2500
+2008	New Mexico	3	5.6%	501-1500
+2008	Nevada	1	0.5%	0-250
+2008	New York	2	50.9%	5001-10000
+2008	Ohio	4	28.9%	0-250
+2008	Oklahoma	7	14.2%	0-250
+2008	Oregon	3	38.8%	501-1500
+2008	Pennsylvania	2	55.3%	251-500
+2008	Rhode Island	0	50.8%	0-250
+2008	South Carolina	2	63.8%	0-250
+2008	South Dakota	0	3.1%	251-500
+2008	Tennessee	2	52.9%	0-250
+2008	Texas	6	7%	5001-10000
+2008	Utah	1	8.9%	501-1500
+2008	Virginia	1	60.7%	0-250
+2008	Vermont	0	75.5%	501-1500
+2008	Washington	3	40.7%	5001-10000
+2008	Wisconsin	4	45.2%	10001-20000
+2008	West Virginia	0	77.2%	0-250
+2008	Wyoming	1	9.2%	0-250
+2009	Alaska	1	30.4%	over 2000
+2009	Alabama	3	70.6%	0-250
+2009	Arkansas	2	55.1%	1501-2500
+2009	Arizona	1	4.8%	0-250
+2009	California	2	17.8%	2501-5000
+2009	Colorado	2	17.5%	501-1500
+2009	Connecticut	0	54.7%	2501-5000
+2009	Delaware	0	30%	0-250
+2009	Florida	0	42.4%	over 2000
+2009	Georgia	3	64.2%	0-250
+2009	Hawaii	0	17%	0-250
+2009	Iowa	1	5.4%	0-250
+2009	Idaho	1	31.8%	1501-2500
+2009	Illinois	1	11.5%	0-250
+2009	Indiana	0	18.9%	0-250
+2009	Kansas	4	2.8%	0-250
+2009	Kentucky	5	48.6%	0-250
+2009	Louisiana	2	49.2%	0-250
+2009	Massachusetts	0	52.5%	2501-5000
+2009	Maryland	1	37.9%	0-250
+2009	Maine	0	89%	2501-5000
+2009	Michigan	0	51.2%	over 2000
+2009	Minnesota	0	28.9%	over 2000
+2009	Missouri	3	30.3%	0-250
+2009	Mississippi	2	61.9%	0-250
+2009	Montana	0	20.6%	2501-5000
+2009	North Carolina	2	59.9%	0-250
+2009	North Dakota	0	1%	251-500
+2009	Nebraska	2	1.8%	0-250
+2009	New Hampshire	0	77.5%	501-1500
+2009	New Jersey	0	39.5%	1501-2500
+2009	New Mexico	2	5.6%	501-1500
+2009	Nevada	0	0.5%	0-250
+2009	New York	0	50.9%	5001-10000
+2009	Ohio	1	28.9%	0-250
+2009	Oklahoma	5	14.2%	0-250
+2009	Oregon	1	38.8%	501-1500
+2009	Pennsylvania	2	55.3%	251-500
+2009	Rhode Island	0	50.8%	0-250
+2009	South Carolina	2	63.8%	0-250
+2009	South Dakota	0	3.1%	251-500
+2009	Tennessee	5	52.9%	0-250
+2009	Texas	6	7%	5001-10000
+2009	Utah	0	8.9%	501-1500
+2009	Virginia	1	60.7%	0-250
+2009	Vermont	0	75.5%	501-1500
+2009	Washington	1	40.7%	5001-10000
+2009	Wisconsin	0	45.2%	10001-20000
+2009	West Virginia	1	77.2%	0-250
+2009	Wyoming	0	9.2%	0-250
+2010	Alaska	0	30.4%	over 2000
+2010	Alabama	0	70.6%	0-250
+2010	Arkansas	1	55.1%	1501-2500
+2010	Arizona	1	4.8%	0-250
+2010	California	0	17.8%	2501-5000
+2010	Colorado	1	17.5%	501-1500
+2010	Connecticut	1	54.7%	2501-5000
+2010	Delaware	1	30%	0-250
+2010	Florida	0	42.4%	over 2000
+2010	Georgia	2	64.2%	0-250
+2010	Hawaii	0	17%	0-250
+2010	Iowa	1	5.4%	0-250
+2010	Idaho	0	31.8%	1501-2500
+2010	Illinois	3	11.5%	0-250
+2010	Indiana	1	18.9%	0-250
+2010	Kansas	2	2.8%	0-250
+2010	Kentucky	1	48.6%	0-250
+2010	Louisiana	0	49.2%	0-250
+2010	Massachusetts	1	52.5%	2501-5000
+2010	Maryland	3	37.9%	0-250
+2010	Maine	0	89%	2501-5000
+2010	Michigan	0	51.2%	over 2000
+2010	Minnesota	0	28.9%	over 2000
+2010	Missouri	0	30.3%	0-250
+2010	Mississippi	0	61.9%	0-250
+2010	Montana	0	20.6%	2501-5000
+2010	North Carolina	2	59.9%	0-250
+2010	North Dakota	0	1%	251-500
+2010	Nebraska	0	1.8%	0-250
+2010	New Hampshire	0	77.5%	501-1500
+2010	New Jersey	2	39.5%	1501-2500
+2010	New Mexico	1	5.6%	501-1500
+2010	Nevada	0	0.5%	0-250
+2010	New York	2	50.9%	5001-10000
+2010	Ohio	0	28.9%	0-250
+2010	Oklahoma	2	14.2%	0-250
+2010	Oregon	0	38.8%	501-1500
+2010	Pennsylvania	4	55.3%	251-500
+2010	Rhode Island	1	50.8%	0-250
+2010	South Carolina	1	63.8%	0-250
+2010	South Dakota	0	3.1%	251-500
+2010	Tennessee	1	52.9%	0-250
+2010	Texas	1	7%	5001-10000
+2010	Utah	0	8.9%	501-1500
+2010	Virginia	1	60.7%	0-250
+2010	Vermont	0	75.5%	501-1500
+2010	Washington	0	40.7%	5001-10000
+2010	Wisconsin	1	45.2%	10001-20000
+2010	West Virginia	1	77.2%	0-250
+2010	Wyoming	0	9.2%	0-250
+2011	Alaska	0	30.4%	over 2000
+2011	Alabama	5	70.6%	0-250
+2011	Arkansas	6	55.1%	1501-2500
+2011	Arizona	2	4.8%	0-250
+2011	California	0	17.8%	2501-5000
+2011	Colorado	3	17.5%	501-1500
+2011	Connecticut	4	54.7%	2501-5000
+2011	Delaware	1	30%	0-250
+2011	Florida	2	42.4%	over 2000
+2011	Georgia	7	64.2%	0-250
+2011	Hawaii	0	17%	0-250
+2011	Iowa	7	5.4%	0-250
+2011	Idaho	1	31.8%	1501-2500
+2011	Illinois	9	11.5%	0-250
+2011	Indiana	5	18.9%	0-250
+2011	Kansas	7	2.8%	0-250
+2011	Kentucky	5	48.6%	0-250
+2011	Louisiana	4	49.2%	0-250
+2011	Massachusetts	3	52.5%	2501-5000
+2011	Maryland	3	37.9%	0-250
+2011	Maine	0	89%	2501-5000
+2011	Michigan	2	51.2%	over 2000
+2011	Minnesota	3	28.9%	over 2000
+2011	Missouri	9	30.3%	0-250
+2011	Mississippi	5	61.9%	0-250
+2011	Montana	2	20.6%	2501-5000
+2011	North Carolina	6	59.9%	0-250
+2011	North Dakota	1	1%	251-500
+2011	Nebraska	3	1.8%	0-250
+2011	New Hampshire	2	77.5%	501-1500
+2011	New Jersey	3	39.5%	1501-2500
+2011	New Mexico	2	5.6%	501-1500
+2011	Nevada	1	0.5%	0-250
+2011	New York	4	50.9%	5001-10000
+2011	Ohio	5	28.9%	0-250
+2011	Oklahoma	8	14.2%	0-250
+2011	Oregon	1	38.8%	501-1500
+2011	Pennsylvania	6	55.3%	251-500
+2011	Rhode Island	2	50.8%	0-250
+2011	South Carolina	5	63.8%	0-250
+2011	South Dakota	2	3.1%	251-500
+2011	Tennessee	9	52.9%	0-250
+2011	Texas	9	7%	5001-10000
+2011	Utah	0	8.9%	501-1500
+2011	Virginia	6	60.7%	0-250
+2011	Vermont	1	75.5%	501-1500
+2011	Washington	0	40.7%	5001-10000
+2011	Wisconsin	4	45.2%	10001-20000
+2011	West Virginia	1	77.2%	0-250
+2011	Wyoming	1	9.2%	0-250
+2012	Alaska	0	30.4%	over 2000
+2012	Alabama	3	70.6%	0-250
+2012	Arkansas	1	55.1%	1501-2500
+2012	Arizona	2	4.8%	0-250
+2012	California	2	17.8%	2501-5000
+2012	Colorado	3	17.5%	501-1500
+2012	Connecticut	1	54.7%	2501-5000
+2012	Delaware	2	30%	0-250
+2012	Florida	1	42.4%	over 2000
+2012	Georgia	2	64.2%	0-250
+2012	Hawaii	0	17%	0-250
+2012	Iowa	2	5.4%	0-250
+2012	Idaho	2	31.8%	1501-2500
+2012	Illinois	3	11.5%	0-250
+2012	Indiana	4	18.9%	0-250
+2012	Kansas	3	2.8%	0-250
+2012	Kentucky	4	48.6%	0-250
+2012	Louisiana	1	49.2%	0-250
+2012	Massachusetts	1	52.5%	2501-5000
+2012	Maryland	3	37.9%	0-250
+2012	Maine	0	89%	2501-5000
+2012	Michigan	1	51.2%	over 2000
+2012	Minnesota	2	28.9%	over 2000
+2012	Missouri	2	30.3%	0-250
+2012	Mississippi	2	61.9%	0-250
+2012	Montana	2	20.6%	2501-5000
+2012	North Carolina	2	59.9%	0-250
+2012	North Dakota	1	1%	251-500
+2012	Nebraska	3	1.8%	0-250
+2012	New Hampshire	1	77.5%	501-1500
+2012	New Jersey	3	39.5%	1501-2500
+2012	New Mexico	3	5.6%	501-1500
+2012	Nevada	2	0.5%	0-250
+2012	New York	3	50.9%	5001-10000
+2012	Ohio	4	28.9%	0-250
+2012	Oklahoma	4	14.2%	0-250
+2012	Oregon	1	38.8%	501-1500
+2012	Pennsylvania	3	55.3%	251-500
+2012	Rhode Island	1	50.8%	0-250
+2012	South Carolina	1	63.8%	0-250
+2012	South Dakota	2	3.1%	251-500
+2012	Tennessee	2	52.9%	0-250
+2012	Texas	6	7%	5001-10000
+2012	Utah	2	8.9%	501-1500
+2012	Virginia	3	60.7%	0-250
+2012	Vermont	0	75.5%	501-1500
+2012	Washington	1	40.7%	5001-10000
+2012	Wisconsin	1	45.2%	10001-20000
+2012	West Virginia	2	77.2%	0-250
+2012	Wyoming	2	9.2%	0-250
+2013	Alaska	0	30.4%	over 2000
+2013	Alabama	1	70.6%	0-250
+2013	Arkansas	0	55.1%	1501-2500
+2013	Arizona	1	4.8%	0-250
+2013	California	1	17.8%	2501-5000
+2013	Colorado	2	17.5%	501-1500
+2013	Connecticut	0	54.7%	2501-5000
+2013	Delaware	0	30%	0-250
+2013	Florida	0	42.4%	over 2000
+2013	Georgia	2	64.2%	0-250
+2013	Hawaii	0	17%	0-250
+2013	Iowa	2	5.4%	0-250
+2013	Idaho	1	31.8%	1501-2500
+2013	Illinois	5	11.5%	0-250
+2013	Indiana	4	18.9%	0-250
+2013	Kansas	4	2.8%	0-250
+2013	Kentucky	1	48.6%	0-250
+2013	Louisiana	1	49.2%	0-250
+2013	Massachusetts	0	52.5%	2501-5000
+2013	Maryland	0	37.9%	0-250
+2013	Maine	0	89%	2501-5000
+2013	Michigan	2	51.2%	over 2000
+2013	Minnesota	2	28.9%	over 2000
+2013	Missouri	6	30.3%	0-250
+2013	Mississippi	1	61.9%	0-250
+2013	Montana	0	20.6%	2501-5000
+2013	North Carolina	0	59.9%	0-250
+2013	North Dakota	1	1%	251-500
+2013	Nebraska	2	1.8%	0-250
+2013	New Hampshire	0	77.5%	501-1500
+2013	New Jersey	0	39.5%	1501-2500
+2013	New Mexico	1	5.6%	501-1500
+2013	Nevada	1	0.5%	0-250
+2013	New York	2	50.9%	5001-10000
+2013	Ohio	1	28.9%	0-250
+2013	Oklahoma	4	14.2%	0-250
+2013	Oregon	1	38.8%	501-1500
+2013	Pennsylvania	0	55.3%	251-500
+2013	Rhode Island	0	50.8%	0-250
+2013	South Carolina	0	63.8%	0-250
+2013	South Dakota	1	3.1%	251-500
+2013	Tennessee	1	52.9%	0-250
+2013	Texas	4	7%	5001-10000
+2013	Utah	1	8.9%	501-1500
+2013	Virginia	0	60.7%	0-250
+2013	Vermont	0	75.5%	501-1500
+2013	Washington	1	40.7%	5001-10000
+2013	Wisconsin	2	45.2%	10001-20000
+2013	West Virginia	0	77.2%	0-250
+2013	Wyoming	1	9.2%	0-250
+2014	Alaska	0	30.4%	over 2000
+2014	Alabama	2	70.6%	0-250
+2014	Arkansas	2	55.1%	1501-2500
+2014	Arizona	1	4.8%	0-250
+2014	California	1	17.8%	2501-5000
+2014	Colorado	3	17.5%	501-1500
+2014	Connecticut	0	54.7%	2501-5000
+2014	Delaware	2	30%	0-250
+2014	Florida	1	42.4%	over 2000
+2014	Georgia	2	64.2%	0-250
+2014	Hawaii	0	17%	0-250
+2014	Iowa	3	5.4%	0-250
+2014	Idaho	1	31.8%	1501-2500
+2014	Illinois	5	11.5%	0-250
+2014	Indiana	3	18.9%	0-250
+2014	Kansas	6	2.8%	0-250
+2014	Kentucky	1	48.6%	0-250
+2014	Louisiana	0	49.2%	0-250
+2014	Massachusetts	0	52.5%	2501-5000
+2014	Maryland	3	37.9%	0-250
+2014	Maine	0	89%	2501-5000
+2014	Michigan	3	51.2%	over 2000
+2014	Minnesota	0	28.9%	over 2000
+2014	Missouri	4	30.3%	0-250
+2014	Mississippi	2	61.9%	0-250
+2014	Montana	1	20.6%	2501-5000
+2014	North Carolina	2	59.9%	0-250
+2014	North Dakota	0	1%	251-500
+2014	Nebraska	2	1.8%	0-250
+2014	New Hampshire	0	77.5%	501-1500
+2014	New Jersey	2	39.5%	1501-2500
+2014	New Mexico	1	5.6%	501-1500
+2014	Nevada	1	0.5%	0-250
+2014	New York	4	50.9%	5001-10000
+2014	Ohio	3	28.9%	0-250
+2014	Oklahoma	1	14.2%	0-250
+2014	Oregon	1	38.8%	501-1500
+2014	Pennsylvania	3	55.3%	251-500
+2014	Rhode Island	0	50.8%	0-250
+2014	South Carolina	2	63.8%	0-250
+2014	South Dakota	1	3.1%	251-500
+2014	Tennessee	2	52.9%	0-250
+2014	Texas	5	7%	5001-10000
+2014	Utah	1	8.9%	501-1500
+2014	Virginia	3	60.7%	0-250
+2014	Vermont	0	75.5%	501-1500
+2014	Washington	1	40.7%	5001-10000
+2014	Wisconsin	1	45.2%	10001-20000
+2014	West Virginia	1	77.2%	0-250
+2014	Wyoming	1	9.2%	0-250
+2015	Alaska	1	30.4%	over 2000
+2015	Alabama	2	70.6%	0-250
+2015	Arkansas	4	55.1%	1501-2500
+2015	Arizona	1	4.8%	0-250
+2015	California	2	17.8%	2501-5000
+2015	Colorado	4	17.5%	501-1500
+2015	Connecticut	2	54.7%	2501-5000
+2015	Delaware	1	30%	0-250
+2015	Florida	2	42.4%	over 2000
+2015	Georgia	4	64.2%	0-250
+2015	Hawaii	0	17%	0-250
+2015	Iowa	3	5.4%	0-250
+2015	Idaho	2	31.8%	1501-2500
+2015	Illinois	4	11.5%	0-250
+2015	Indiana	1	18.9%	0-250
+2015	Kansas	4	2.8%	0-250
+2015	Kentucky	4	48.6%	0-250
+2015	Louisiana	3	49.2%	0-250
+2015	Massachusetts	1	52.5%	2501-5000
+2015	Maryland	3	37.9%	0-250
+2015	Maine	1	89%	2501-5000
+2015	Michigan	3	51.2%	over 2000
+2015	Minnesota	0	28.9%	over 2000
+2015	Missouri	2	30.3%	0-250
+2015	Mississippi	2	61.9%	0-250
+2015	Montana	2	20.6%	2501-5000
+2015	North Carolina	4	59.9%	0-250
+2015	North Dakota	1	1%	251-500
+2015	Nebraska	1	1.8%	0-250
+2015	New Hampshire	1	77.5%	501-1500
+2015	New Jersey	3	39.5%	1501-2500
+2015	New Mexico	1	5.6%	501-1500
+2015	Nevada	1	0.5%	0-250
+2015	New York	2	50.9%	5001-10000
+2015	Ohio	3	28.9%	0-250
+2015	Oklahoma	5	14.2%	0-250
+2015	Oregon	2	38.8%	501-1500
+2015	Pennsylvania	4	55.3%	251-500
+2015	Rhode Island	1	50.8%	0-250
+2015	South Carolina	4	63.8%	0-250
+2015	South Dakota	2	3.1%	251-500
+2015	Tennessee	4	52.9%	0-250
+2015	Texas	7	7%	5001-10000
+2015	Utah	1	8.9%	501-1500
+2015	Virginia	3	60.7%	0-250
+2015	Vermont	0	75.5%	501-1500
+2015	Washington	2	40.7%	5001-10000
+2015	Wisconsin	2	45.2%	10001-20000
+2015	West Virginia	1	77.2%	0-250
+2015	Wyoming	1	9.2%	0-250
+2016	Alaska	0	30.4%	over 2000
+2016	Alabama	3	70.6%	0-250
+2016	Arkansas	1	55.1%	1501-2500
+2016	Arizona	1	4.8%	0-250
+2016	California	2	17.8%	2501-5000
+2016	Colorado	3	17.5%	501-1500
+2016	Connecticut	2	54.7%	2501-5000
+2016	Delaware	0	30%	0-250
+2016	Florida	3	42.4%	over 2000
+2016	Georgia	5	64.2%	0-250
+2016	Hawaii	0	17%	0-250
+2016	Iowa	0	5.4%	0-250
+2016	Idaho	1	31.8%	1501-2500
+2016	Illinois	4	11.5%	0-250
+2016	Indiana	2	18.9%	0-250
+2016	Kansas	2	2.8%	0-250
+2016	Kentucky	1	48.6%	0-250
+2016	Louisiana	4	49.2%	0-250
+2016	Massachusetts	2	52.5%	2501-5000
+2016	Maryland	3	37.9%	0-250
+2016	Maine	1	89%	2501-5000
+2016	Michigan	1	51.2%	over 2000
+2016	Minnesota	0	28.9%	over 2000
+2016	Missouri	3	30.3%	0-250
+2016	Mississippi	3	61.9%	0-250
+2016	Montana	1	20.6%	2501-5000
+2016	North Carolina	5	59.9%	0-250
+2016	North Dakota	0	1%	251-500
+2016	Nebraska	1	1.8%	0-250
+2016	New Hampshire	1	77.5%	501-1500
+2016	New Jersey	2	39.5%	1501-2500
+2016	New Mexico	0	5.6%	501-1500
+2016	Nevada	2	0.5%	0-250
+2016	New York	3	50.9%	5001-10000
+2016	Ohio	1	28.9%	0-250
+2016	Oklahoma	3	14.2%	0-250
+2016	Oregon	1	38.8%	501-1500
+2016	Pennsylvania	2	55.3%	251-500
+2016	Rhode Island	1	50.8%	0-250
+2016	South Carolina	3	63.8%	0-250
+2016	South Dakota	0	3.1%	251-500
+2016	Tennessee	2	52.9%	0-250
+2016	Texas	9	7%	5001-10000
+2016	Utah	0	8.9%	501-1500
+2016	Virginia	5	60.7%	0-250
+2016	Vermont	1	75.5%	501-1500
+2016	Washington	1	40.7%	5001-10000
+2016	Wisconsin	0	45.2%	10001-20000
+2016	West Virginia	1	77.2%	0-250
+2016	Wyoming	2	9.2%	0-250
+2017	Alaska	0	30.4%	over 2000
+2017	Alabama	8	70.6%	0-250
+2017	Arkansas	4	55.1%	1501-2500
+2017	Arizona	1	4.8%	0-250
+2017	California	3	17.8%	2501-5000
+2017	Colorado	1	17.5%	501-1500
+2017	Connecticut	0	54.7%	2501-5000
+2017	Delaware	0	30%	0-250
+2017	Florida	4	42.4%	over 2000
+2017	Georgia	5	64.2%	0-250
+2017	Hawaii	0	17%	0-250
+2017	Iowa	5	5.4%	0-250
+2017	Idaho	1	31.8%	1501-2500
+2017	Illinois	6	11.5%	0-250
+2017	Indiana	2	18.9%	0-250
+2017	Kansas	2	2.8%	0-250
+2017	Kentucky	5	48.6%	0-250
+2017	Louisiana	3	49.2%	0-250
+2017	Massachusetts	0	52.5%	2501-5000
+2017	Maryland	2	37.9%	0-250
+2017	Maine	0	89%	2501-5000
+2017	Michigan	2	51.2%	over 2000
+2017	Minnesota	3	28.9%	over 2000
+2017	Missouri	6	30.3%	0-250
+2017	Mississippi	5	61.9%	0-250
+2017	Montana	2	20.6%	2501-5000
+2017	North Carolina	6	59.9%	0-250
+2017	North Dakota	1	1%	251-500
+2017	Nebraska	3	1.8%	0-250
+2017	New Hampshire	0	77.5%	501-1500
+2017	New Jersey	0	39.5%	1501-2500
+2017	New Mexico	1	5.6%	501-1500
+2017	Nevada	1	0.5%	0-250
+2017	New York	3	50.9%	5001-10000
+2017	Ohio	3	28.9%	0-250
+2017	Oklahoma	7	14.2%	0-250
+2017	Oregon	1	38.8%	501-1500
+2017	Pennsylvania	1	55.3%	251-500
+2017	Rhode Island	0	50.8%	0-250
+2017	South Carolina	6	63.8%	0-250
+2017	South Dakota	1	3.1%	251-500
+2017	Tennessee	7	52.9%	0-250
+2017	Texas	8	7%	5001-10000
+2017	Utah	0	8.9%	501-1500
+2017	Virginia	5	60.7%	0-250
+2017	Vermont	0	75.5%	501-1500
+2017	Washington	1	40.7%	5001-10000
+2017	Wisconsin	3	45.2%	10001-20000
+2017	West Virginia	1	77.2%	0-250
+2017	Wyoming	2	9.2%	0-250
+2018	Alaska	0	30.4%	over 2000
+2018	Alabama	4	70.6%	0-250
+2018	Arkansas	2	55.1%	1501-2500
+2018	Arizona	1	4.8%	0-250
+2018	California	2	17.8%	2501-5000
+2018	Colorado	8	17.5%	501-1500
+2018	Connecticut	3	54.7%	2501-5000
+2018	Delaware	1	30%	0-250
+2018	Florida	3	42.4%	over 2000
+2018	Georgia	6	64.2%	0-250
+2018	Hawaii	0	17%	0-250
+2018	Iowa	3	5.4%	0-250
+2018	Idaho	1	31.8%	1501-2500
+2018	Illinois	3	11.5%	0-250
+2018	Indiana	3	18.9%	0-250
+2018	Kansas	4	2.8%	0-250
+2018	Kentucky	1	48.6%	0-250
+2018	Louisiana	2	49.2%	0-250
+2018	Massachusetts	3	52.5%	2501-5000
+2018	Maryland	6	37.9%	0-250
+2018	Maine	1	89%	2501-5000
+2018	Michigan	2	51.2%	over 2000
+2018	Minnesota	0	28.9%	over 2000
+2018	Missouri	4	30.3%	0-250
+2018	Mississippi	1	61.9%	0-250
+2018	Montana	2	20.6%	2501-5000
+2018	North Carolina	6	59.9%	0-250
+2018	North Dakota	0	1%	251-500
+2018	Nebraska	2	1.8%	0-250
+2018	New Hampshire	1	77.5%	501-1500
+2018	New Jersey	4	39.5%	1501-2500
+2018	New Mexico	2	5.6%	501-1500
+2018	Nevada	1	0.5%	0-250
+2018	New York	5	50.9%	5001-10000
+2018	Ohio	2	28.9%	0-250
+2018	Oklahoma	3	14.2%	0-250
+2018	Oregon	2	38.8%	501-1500
+2018	Pennsylvania	6	55.3%	251-500
+2018	Rhode Island	2	50.8%	0-250
+2018	South Carolina	6	63.8%	0-250
+2018	South Dakota	0	3.1%	251-500
+2018	Tennessee	2	52.9%	0-250
+2018	Texas	6	7%	5001-10000
+2018	Utah	3	8.9%	501-1500
+2018	Virginia	7	60.7%	0-250
+2018	Vermont	1	75.5%	501-1500
+2018	Washington	1	40.7%	5001-10000
+2018	Wisconsin	1	45.2%	10001-20000
+2018	West Virginia	1	77.2%	0-250
+2018	Wyoming	3	9.2%	0-250
+2019	Alaska	1	30.4%	over 2000
+2019	Alabama	3	70.6%	0-250
+2019	Arkansas	4	55.1%	1501-2500
+2019	Arizona	0	4.8%	0-250
+2019	California	1	17.8%	2501-5000
+2019	Colorado	2	17.5%	501-1500
+2019	Connecticut	1	54.7%	2501-5000
+2019	Delaware	0	30%	0-250
+2019	Florida	1	42.4%	over 2000
+2019	Georgia	2	64.2%	0-250
+2019	Hawaii	0	17%	0-250
+2019	Iowa	4	5.4%	0-250
+2019	Idaho	0	31.8%	1501-2500
+2019	Illinois	4	11.5%	0-250
+2019	Indiana	4	18.9%	0-250
+2019	Kansas	4	2.8%	0-250
+2019	Kentucky	1	48.6%	0-250
+2019	Louisiana	5	49.2%	0-250
+2019	Massachusetts	1	52.5%	2501-5000
+2019	Maryland	1	37.9%	0-250
+2019	Maine	0	89%	2501-5000
+2019	Michigan	1	51.2%	over 2000
+2019	Minnesota	1	28.9%	over 2000
+2019	Missouri	4	30.3%	0-250
+2019	Mississippi	4	61.9%	0-250
+2019	Montana	0	20.6%	2501-5000
+2019	North Carolina	3	59.9%	0-250
+2019	North Dakota	1	1%	251-500
+2019	Nebraska	3	1.8%	0-250
+2019	New Hampshire	0	77.5%	501-1500
+2019	New Jersey	2	39.5%	1501-2500
+2019	New Mexico	0	5.6%	501-1500
+2019	Nevada	0	0.5%	0-250
+2019	New York	1	50.9%	5001-10000
+2019	Ohio	4	28.9%	0-250
+2019	Oklahoma	6	14.2%	0-250
+2019	Oregon	0	38.8%	501-1500
+2019	Pennsylvania	3	55.3%	251-500
+2019	Rhode Island	0	50.8%	0-250
+2019	South Carolina	1	63.8%	0-250
+2019	South Dakota	1	3.1%	251-500
+2019	Tennessee	3	52.9%	0-250
+2019	Texas	7	7%	5001-10000
+2019	Utah	0	8.9%	501-1500
+2019	Virginia	2	60.7%	0-250
+2019	Vermont	0	75.5%	501-1500
+2019	Washington	0	40.7%	5001-10000
+2019	Wisconsin	1	45.2%	10001-20000
+2019	West Virginia	1	77.2%	0-250
+2019	Wyoming	1	9.2%	0-250
+2020	Alaska	0	30.4%	over 2000
+2020	Alabama	9	70.6%	0-250
+2020	Arkansas	8	55.1%	1501-2500
+2020	Arizona	2	4.8%	0-250
+2020	California	2	17.8%	2501-5000
+2020	Colorado	2	17.5%	501-1500
+2020	Connecticut	2	54.7%	2501-5000
+2020	Delaware	3	30%	0-250
+2020	Florida	7	42.4%	over 2000
+2020	Georgia	10	64.2%	0-250
+2020	Hawaii	0	17%	0-250
+2020	Iowa	4	5.4%	0-250
+2020	Idaho	1	31.8%	1501-2500
+2020	Illinois	6	11.5%	0-250
+2020	Indiana	6	18.9%	0-250
+2020	Kansas	5	2.8%	0-250
+2020	Kentucky	4	48.6%	0-250
+2020	Louisiana	9	49.2%	0-250
+2020	Massachusetts	3	52.5%	2501-5000
+2020	Maryland	5	37.9%	0-250
+2020	Maine	0	89%	2501-5000
+2020	Michigan	3	51.2%	over 2000
+2020	Minnesota	2	28.9%	over 2000
+2020	Missouri	6	30.3%	0-250
+2020	Mississippi	9	61.9%	0-250
+2020	Montana	1	20.6%	2501-5000
+2020	North Carolina	9	59.9%	0-250
+2020	North Dakota	1	1%	251-500
+2020	Nebraska	4	1.8%	0-250
+2020	New Hampshire	0	77.5%	501-1500
+2020	New Jersey	4	39.5%	1501-2500
+2020	New Mexico	2	5.6%	501-1500
+2020	Nevada	2	0.5%	0-250
+2020	New York	4	50.9%	5001-10000
+2020	Ohio	4	28.9%	0-250
+2020	Oklahoma	6	14.2%	0-250
+2020	Oregon	2	38.8%	501-1500
+2020	Pennsylvania	6	55.3%	251-500
+2020	Rhode Island	3	50.8%	0-250
+2020	South Carolina	10	63.8%	0-250
+2020	South Dakota	2	3.1%	251-500
+2020	Tennessee	9	52.9%	0-250
+2020	Texas	11	7%	5001-10000
+2020	Utah	2	8.9%	501-1500
+2020	Virginia	8	60.7%	0-250
+2020	Vermont	0	75.5%	501-1500
+2020	Washington	2	40.7%	5001-10000
+2020	Wisconsin	3	45.2%	10001-20000
+2020	West Virginia	3	77.2%	0-250
+2020	Wyoming	2	9.2%	0-250
+2021	Alaska	0	30.4%	over 2000
+2021	Alabama	6	70.6%	0-250
+2021	Arkansas	5	55.1%	1501-2500
+2021	Arizona	3	4.8%	0-250
+2021	California	3	17.8%	2501-5000
+2021	Colorado	5	17.5%	501-1500
+2021	Connecticut	3	54.7%	2501-5000
+2021	Delaware	1	30%	0-250
+2021	Florida	4	42.4%	over 2000
+2021	Georgia	6	64.2%	0-250
+2021	Hawaii	0	17%	0-250
+2021	Iowa	4	5.4%	0-250
+2021	Idaho	2	31.8%	1501-2500
+2021	Illinois	7	11.5%	0-250
+2021	Indiana	5	18.9%	0-250
+2021	Kansas	3	2.8%	0-250
+2021	Kentucky	4	48.6%	0-250
+2021	Louisiana	5	49.2%	0-250
+2021	Massachusetts	3	52.5%	2501-5000
+2021	Maryland	5	37.9%	0-250
+2021	Maine	0	89%	2501-5000
+2021	Michigan	5	51.2%	over 2000
+2021	Minnesota	3	28.9%	over 2000
+2021	Missouri	8	30.3%	0-250
+2021	Mississippi	5	61.9%	0-250
+2021	Montana	2	20.6%	2501-5000
+2021	North Carolina	6	59.9%	0-250
+2021	North Dakota	2	1%	251-500
+2021	Nebraska	2	1.8%	0-250
+2021	New Hampshire	0	77.5%	501-1500
+2021	New Jersey	4	39.5%	1501-2500
+2021	New Mexico	3	5.6%	501-1500
+2021	Nevada	3	0.5%	0-250
+2021	New York	6	50.9%	5001-10000
+2021	Ohio	5	28.9%	0-250
+2021	Oklahoma	3	14.2%	0-250
+2021	Oregon	3	38.8%	501-1500
+2021	Pennsylvania	6	55.3%	251-500
+2021	Rhode Island	2	50.8%	0-250
+2021	South Carolina	4	63.8%	0-250
+2021	South Dakota	2	3.1%	251-500
+2021	Tennessee	7	52.9%	0-250
+2021	Texas	12	7%	5001-10000
+2021	Utah	2	8.9%	501-1500
+2021	Virginia	8	60.7%	0-250
+2021	Vermont	0	75.5%	501-1500
+2021	Washington	3	40.7%	5001-10000
+2021	Wisconsin	4	45.2%	10001-20000
+2021	West Virginia	1	77.2%	0-250
+2021	Wyoming	2	9.2%	0-250
